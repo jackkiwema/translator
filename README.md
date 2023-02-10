@@ -2,7 +2,7 @@
 # TRANSLATOR
 ---
 #### Description
-[![asciicast](https://asciinema.org/a/rRDpuGnda23HVLvvjoa3wwxYZ.svg)](https://asciinema.org/a/rRDpuGnda23HVLvvjoa3wwxYZ)
+![](https://github.com/jackkiwema/translator/output.gif)
 ---
 * A python program that takes input text, translates and returns your local language
 ---
